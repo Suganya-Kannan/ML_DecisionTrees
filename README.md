@@ -1,4 +1,4 @@
-# ML_DecisionTreesAndRules
+# ML_DecisionTree
 Identifying risky bank loans using C5.0 decision trees
 
 As the availability of credit has been limited, banks are increasingly tightening their lending systems and turning to machine learning to more accurately identify risky loans. 
